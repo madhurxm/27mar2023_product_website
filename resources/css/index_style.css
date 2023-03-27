@@ -1,0 +1,24 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+#nav_div{
+    
+    height: 9vh;
+
+}
+#div1{
+    background-image: url("../img/banner_bg.jpg");
+    
+    height:100vh;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    image-resolution:initial;
+}
+#div1_text{
+    text-align: center;
+    
+}
