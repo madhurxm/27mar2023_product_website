@@ -11,14 +11,21 @@ body{
 
 }
 #div1{
-    background-image: url("../img/banner_bg.jpg");
-    
+    background-image: url("../img/div_img/banner_bg.jpg");
     height:100vh;
     background-attachment: fixed;
     background-repeat:no-repeat;
-    image-resolution:initial;
+    /* image-resolution:initial; */
+
 }
 #div1_text{
     text-align: center;
-    
+}
+
+#div2{
+    background-image: url("../img/div_img/about-bg.jpg");
+    height:100vh;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    /* image-resolution:initial; */
 }
