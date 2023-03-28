@@ -29,3 +29,33 @@ body{
     background-repeat:no-repeat;
     /* image-resolution:initial; */
 }
+
+#div3{
+    background-color: rgba(255, 254, 254, 0.479);
+    height:100vh;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    /* image-resolution:initial; */
+}
+
+#div4{
+    background-color: rgba(201, 156, 32, 0.877);
+    
+    height:100vh;
+    
+    background-attachment: fixed;
+    padding-top:120px !important;
+    padding-left: 270PX !important;
+    padding-right: 270px !important;
+    /* background-repeat:no-repeat; */
+
+}
+#div5{
+    background-image: url("../img/div_img/blog-bg.jpg");
+    height:100vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat;
+    /* image-resolution:initial; */
+
+}
