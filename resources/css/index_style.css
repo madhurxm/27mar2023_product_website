@@ -4,13 +4,16 @@ html{
 body{
     margin: 0;
     padding: 0;
+    min-width: 800px;
 }
 div{
     font-family:Georgia, 'Times New Roman', Times, serif;
+    
 }
 #nav_div{
     
     height: 9vh;
+    max-width: 100vw;
 
 }
 #div1{
