@@ -40,7 +40,6 @@ body{
 
 #div4{
     background-color: rgba(201, 156, 32, 0.877);
-    
     height:100vh;
     
     background-attachment: fixed;
@@ -57,5 +56,17 @@ body{
     background-size: cover;
     background-repeat:no-repeat;
     /* image-resolution:initial; */
+
+
+}
+#div6{
+    background-color: rgba(201, 156, 32, 0.877);
+    height:100vh;
+    
+    background-attachment: fixed;
+    padding-top:120px !important;
+    padding-left: 270PX !important;
+    padding-right: 270px !important;
+    /* background-repeat:no-repeat; */
 
 }
